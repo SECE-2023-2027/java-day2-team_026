@@ -11,7 +11,7 @@ public class StudentRegister {
             System.out.println("Enter the name of student " + (i + 1) + ":");
             student.add(sc.next());
             student.add(sc.next());
-            student.add(sc.next());y
+            student.add(sc.next());
             students.add(student);
         }
         int h=0,l=0,i=1000,j=-1000;
